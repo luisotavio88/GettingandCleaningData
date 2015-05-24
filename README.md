@@ -2,7 +2,7 @@
 My final project of Getting and Cleaning Data Course
 
 
-Describing script.R:
+Describing run_analysis.R:
 
 1 - Download and unzip data files
 
