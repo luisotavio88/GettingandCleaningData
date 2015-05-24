@@ -8,7 +8,7 @@ Describing script.R:
 
 2 - Load activity labels + features infos
 
-3 - Extract only the data on mean and standard deviation
+3 - Loads both the training and test datasets and extract only the data on mean and standard deviation
 
 4 - Loads the activity and subject data for each dataset, and merges those columns with the dataset
 
